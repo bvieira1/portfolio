@@ -1,0 +1,132 @@
+{
+  "configVersion": 1,
+  "timestamp": 1579715750363,
+  "index": "https://bvieira1.github.io/portfolio/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://bvieira1.github.io/portfolio/favicon.ico",
+        "https://bvieira1.github.io/portfolio/index.html",
+        "https://bvieira1.github.io/portfolio/main-es2015.5f8f57aefa066d59127c.js",
+        "https://bvieira1.github.io/portfolio/main-es5.5f8f57aefa066d59127c.js",
+        "https://bvieira1.github.io/portfolio/manifest.webmanifest",
+        "https://bvieira1.github.io/portfolio/polyfills-es2015.f09212d8cde82f6f4917.js",
+        "https://bvieira1.github.io/portfolio/polyfills-es5.accaab7a6ac76cd63c20.js",
+        "https://bvieira1.github.io/portfolio/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "https://bvieira1.github.io/portfolio/runtime-es5.edb2fcf2778e7bf1d426.js",
+        "https://bvieira1.github.io/portfolio/styles.57fe09da8eb383e21c36.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/email.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/facebook.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/github.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/linkedin.png",
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/pluralsight-icon.jpg",
+        "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/twitter.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/angular.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/c.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/csharp.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/css.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/dotnet.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/html.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/javascript.svg",
+        "https://bvieira1.github.io/portfolio/assets/assert/devIcon/typescript.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/email.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/facebook.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/github.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/hackerrank.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-128x128.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-144x144.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-152x152.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-192x192.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-384x384.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-512x512.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-72x72.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/icon-96x96.png",
+        "https://bvieira1.github.io/portfolio/assets/icons/instagram.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/linkedin.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/pluralsight.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/stackoverflow.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/twitter.svg",
+        "https://bvieira1.github.io/portfolio/assets/icons/vscode.svg",
+        "https://bvieira1.github.io/portfolio/assets/img/cristianoBorges.png",
+        "https://bvieira1.github.io/portfolio/assets/img/googleStadia.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/email.svg": "af0aeb855d2af329995c625d079f2a8fae2ca6f7",
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/facebook.svg": "52cb36f7f0356099e1fce52e2d7a2894574e0ff4",
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/github.svg": "b01fe2b3e7767104261abce0655621bd1ab5fe49",
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/linkedin.png": "b583c366bc69a3cd759d6b269866f2e246bc1b02",
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/pluralsight-icon.jpg": "32cb39daa2219a04b9b4bd5c7498d130c7f3e9df",
+    "https://bvieira1.github.io/portfolio/assets/assert/contactIcon/twitter.svg": "70a0d0591e174965ed959c8a4bdff80694f3134c",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/angular.svg": "3b5be8774fc85a82957e394b87fdbe91500ece98",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/c.svg": "754ea3547835fe188f4b91c7ab5ecd3b531b0295",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/csharp.svg": "757268df04426428f3eacba6a53f6a8c4b70379a",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/css.svg": "cd3065aa8555501b91c007c4e263c305a3d225f1",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/dotnet.svg": "4c2b0e07a2c525c69777f11f7a350cead9aa37b7",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/html.svg": "3bfa0311c5a6a7e911b16d3ecd00b694882cba33",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/javascript.svg": "a1d14fa0dc2fdb210e664b35c454aaade6162a7c",
+    "https://bvieira1.github.io/portfolio/assets/assert/devIcon/typescript.svg": "45f4dcc3929ac3930a3d90d375ea174d43a1e69b",
+    "https://bvieira1.github.io/portfolio/assets/icons/email.svg": "24d87eb56057e2d91ed596b24429a495b267e56b",
+    "https://bvieira1.github.io/portfolio/assets/icons/facebook.svg": "b86b39c04ce1780925ba08497c3e6fd32295632a",
+    "https://bvieira1.github.io/portfolio/assets/icons/github.svg": "cc8b1122d828c2a5e64a2110ca1e8f12e7af507e",
+    "https://bvieira1.github.io/portfolio/assets/icons/hackerrank.svg": "23c2aecf9ca2cdd8ffd4499626fbd4998714b1d3",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://bvieira1.github.io/portfolio/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://bvieira1.github.io/portfolio/assets/icons/instagram.svg": "123f011475b4a0e44219dda94f8226527c45cfb5",
+    "https://bvieira1.github.io/portfolio/assets/icons/linkedin.svg": "0de02c84dfb812531a80cce0decd4f3f8e23479e",
+    "https://bvieira1.github.io/portfolio/assets/icons/pluralsight.svg": "6674f0cdb731e168b01270bf5bf2c6dc593fccff",
+    "https://bvieira1.github.io/portfolio/assets/icons/stackoverflow.svg": "a9763bee0fc7ab49a851b1ef8295f26852f3123b",
+    "https://bvieira1.github.io/portfolio/assets/icons/twitter.svg": "97d8a5ac6b93b24c6f8f5532f43f124cc3db4b1e",
+    "https://bvieira1.github.io/portfolio/assets/icons/vscode.svg": "bfbf8a3d8dae9e2b5c9d917e0d37b92f2fa1cb90",
+    "https://bvieira1.github.io/portfolio/assets/img/cristianoBorges.png": "95e21844b2d98fb6967d3e333b7c9063b32410a3",
+    "https://bvieira1.github.io/portfolio/assets/img/googleStadia.png": "b3a99cb852b2ce97db51f2b2f06046faebb2500b",
+    "https://bvieira1.github.io/portfolio/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://bvieira1.github.io/portfolio/index.html": "4a0fdb06f9b52bc83c871ce69e1251c2d5fe6544",
+    "https://bvieira1.github.io/portfolio/main-es2015.5f8f57aefa066d59127c.js": "e9627b107a423b96ebe1666c17d3d66b06028cdf",
+    "https://bvieira1.github.io/portfolio/main-es5.5f8f57aefa066d59127c.js": "c5e79a5dc5ef1b39636e2c8dc45991ab1ff74de3",
+    "https://bvieira1.github.io/portfolio/manifest.webmanifest": "dbb4d057defe063342829137ae83974f316bb132",
+    "https://bvieira1.github.io/portfolio/polyfills-es2015.f09212d8cde82f6f4917.js": "c06c82c89e3e3af66464cb288fb96000ae7dd2b1",
+    "https://bvieira1.github.io/portfolio/polyfills-es5.accaab7a6ac76cd63c20.js": "8b0176403b86643311db3e06bd5bb23af799af52",
+    "https://bvieira1.github.io/portfolio/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://bvieira1.github.io/portfolio/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://bvieira1.github.io/portfolio/styles.57fe09da8eb383e21c36.css": "68376eb086819fbbcd4d4c57e0387b4133823f3c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
