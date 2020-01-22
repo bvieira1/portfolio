@@ -1,0 +1,33 @@
+<div (click)="onBackClick()" class="back-icon">
+  <app-back-icon></app-back-icon>
+</div>
+<span class="overlay"></span>
+<div class="container">
+  <div class="side1">
+    <h1 class="skill-header">Sobre</h1>
+    <app-dp-logo height="13rem" width="13rem" class="dp-logo"></app-dp-logo>
+    <div class="text-container">
+      <p>
+        Comecei a programar com java desktop em 2016, depois pulei para Angular e Laravel, após comecei a estudar Flutter para desenvolvimento de aplicativos moveis e agora estou trabalhando com Node.js, Angular , Flutter..
+      </p>
+      <br>
+      <br>
+      <p>
+        Além de desenvolvimento web,
+        adoro desenvolver Apps ibridos com Flutter.
+        Estou desenvolvendo um App próprio em Flutter.
+      </p>
+    </div>
+  </div>
+  <div class="side2">
+    <div class="skill-container">
+      <h1 class="skill-header">
+        Habilidades
+      </h1>
+      <div *ngFor="let skill of skills">
+        <h4 class="skill-type">{{skill.type}}</h4>
+        <h4 class="skill-names">{{skill.names.join(', ')}}</h4>
+      </div>
+    </div>
+  </div>
+</div>
